@@ -1,0 +1,12 @@
+file_format: "1"
+id: paw
+name: paw
+type: shield
+url: https://github.com/Bastardkb/paw/
+requires: [pro_micro]
+features:
+  - keys
+  - pointer
+siblings:
+  - paw_left
+  - paw_right

@@ -1,0 +1,5 @@
+config SHIELD_PAW_LEFT
+	def_bool $(shields_list_contains,paw_left)
+
+config SHIELD_PAW_RIGHT
+	def_bool $(shields_list_contains,paw_right)
